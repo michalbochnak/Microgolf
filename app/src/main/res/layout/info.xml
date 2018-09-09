@@ -1,0 +1,133 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/info"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="8"
+    android:padding="30dp"
+    android:orientation="horizontal"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/jackpotImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_blue"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/jackpotTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="0"
+        android:text="Jackpot"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/playerOneImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_p1"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/playerOneTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:text="Player One"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/playerTwoImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_p2"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/playerTwoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="2"
+        android:text="Player Two"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/playerOneWinImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_p1_jack"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/playerOneWinTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="3"
+        android:text="Player One Got Jackpot"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/playerTwoWinImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_p2_jack"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/playerTwoWinTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="4"
+        android:text="Player Two Got Jackpot"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/bothPlayersSameHoleImageView"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/hole_red"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/bothPlayersSameHoleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="5"
+        android:text="Both players in same hole"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/blankLineTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="6"
+        android:text=""
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/currentActionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="7"
+        android:text="Press START GAME to begin."
+        android:textColor="@android:color/background_light"
+        android:padding="5dp"/>
+
+
+
+</GridLayout>
+
+
+
+

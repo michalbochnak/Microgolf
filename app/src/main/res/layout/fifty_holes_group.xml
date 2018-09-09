@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <ImageView
+        android:id="@+id/hole_1"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_2"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_3"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_4"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_5"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_6"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_7"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_8"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_9"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+
+    <ImageView
+        android:id="@+id/hole_10"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_11"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_12"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_13"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_14"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_15"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_16"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_17"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_18"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_19"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+
+    <ImageView
+        android:id="@+id/hole_20"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_21"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_22"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_23"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_24"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_25"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_26"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_27"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_28"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_29"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+
+    <ImageView
+        android:id="@+id/hole_30"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_31"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_32"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_33"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_34"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_35"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_36"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_37"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_38"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_39"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+
+    <ImageView
+        android:id="@+id/hole_40"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_41"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_42"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_43"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_44"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_45"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_46"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_47"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_48"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+    <ImageView
+        android:id="@+id/hole_49"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+
+    <ImageView
+        android:id="@+id/hole_50"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/hole_white"></ImageView>
+
+</LinearLayout>
